@@ -9,9 +9,9 @@ A very light weight modal window that works off ajax.
  3. Open lightbox.plugin.min.js and change the dataPath variable to the path you are saving your ajax files in.
 
 ##Simple Usage:
- ``shell
+ ``
  lightBox("Modal Title", 'userLogin.php', 500, 100);
- ``shell
+ ``
  
  * the title is opptional
  * you can add another paramater to make the modal window unclosable once it is opened.
