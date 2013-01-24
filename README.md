@@ -1,4 +1,4 @@
-lightbox
+Lightbox v1.1.8
 ========
 
 A very light weight modal window that works off ajax.
